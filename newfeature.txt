@@ -1,2 +1,4 @@
 Hi Am devops engineer
 I want to become Python developer as well as i did Python certification
+I am good in Ansible and i want to write Python code myself only.
+
